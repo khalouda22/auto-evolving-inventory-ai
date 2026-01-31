@@ -1,0 +1,7 @@
+{
+  "last_updated": "2026-01-31T11:42:55.694673",
+  "training_count": 1,
+  "batch_size": 5,
+  "model_type": "SGDRegressor",
+  "is_fitted": true
+}

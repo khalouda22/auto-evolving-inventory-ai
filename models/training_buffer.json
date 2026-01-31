@@ -1,0 +1,16 @@
+[
+  {
+    "sku": "TSLA",
+    "quantity": 10,
+    "confidence": 0.8,
+    "price": 200,
+    "timestamp": "2026-01-31T11:42:55.696915"
+  },
+  {
+    "sku": "FLOW_TEST",
+    "quantity": 2,
+    "confidence": 0.95,
+    "price": 50,
+    "timestamp": "2026-01-31T11:42:55.703500"
+  }
+]
