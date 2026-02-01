@@ -1,0 +1,10 @@
+{
+  "prediction_id": "FLOW_TEST_20260131_183440",
+  "sku": "FLOW_TEST",
+  "predicted_demand": 3.5509521491295652,
+  "action": "buy",
+  "confidence": 0.85,
+  "timestamp": "2026-01-31T18:34:40.455543",
+  "actual_demand": null,
+  "feedback_received": false
+}

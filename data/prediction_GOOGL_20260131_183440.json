@@ -1,0 +1,10 @@
+{
+  "prediction_id": "GOOGL_20260131_183440",
+  "sku": "GOOGL",
+  "predicted_demand": 3.0543213109691503,
+  "action": "hold",
+  "confidence": 0.65,
+  "timestamp": "2026-01-31T18:34:40.478954",
+  "actual_demand": null,
+  "feedback_received": false
+}

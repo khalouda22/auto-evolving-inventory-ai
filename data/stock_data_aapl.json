@@ -1,0 +1,8 @@
+﻿{
+  "sku": "AAPL",
+  "quantity": 8,
+  "confidence": 0.95,
+  "source": "backup_api",
+  "timestamp": "2026-01-30T19:47:21.922990",
+  "metadata": {"price": 175.5, "volume": 1000000}
+}

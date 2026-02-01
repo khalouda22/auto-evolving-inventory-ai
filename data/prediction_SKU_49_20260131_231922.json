@@ -1,0 +1,10 @@
+{
+  "prediction_id": "SKU_49_20260131_231922",
+  "sku": "SKU_49",
+  "predicted_demand": 4.7681933880239145,
+  "action": "hold",
+  "confidence": 0.65,
+  "timestamp": "2026-01-31T23:19:22.190717",
+  "actual_demand": null,
+  "feedback_received": false
+}

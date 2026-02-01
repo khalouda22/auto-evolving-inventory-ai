@@ -1,0 +1,12 @@
+﻿{
+  "world_data": [
+    {
+      "sku": "MSFT",
+      "quantity": 15,
+      "confidence": 0.95,
+      "source": "backup_api",
+      "timestamp": "2026-01-30T20:15:30.123456",
+      "metadata": {"price": 430.65}
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿{
+  "sku": "NVDA",
+  "quantity": 5,
+  "confidence": 0.95,
+  "source": "backup_api",
+  "timestamp": "2026-01-30T19:47:21.935615",
+  "metadata": {"price": 950.2, "volume": 1000000}
+}

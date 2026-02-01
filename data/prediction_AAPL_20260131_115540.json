@@ -1,0 +1,10 @@
+{
+  "prediction_id": "AAPL_20260131_115540",
+  "sku": "AAPL",
+  "predicted_demand": 5,
+  "action": "hold",
+  "confidence": 0.6,
+  "timestamp": "2026-01-31T11:55:40.624352",
+  "actual_demand": null,
+  "feedback_received": false
+}

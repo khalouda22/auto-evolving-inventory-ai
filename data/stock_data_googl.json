@@ -1,0 +1,8 @@
+﻿{
+  "sku": "GOOGL",
+  "quantity": 22,
+  "confidence": 0.95,
+  "source": "backup_api",
+  "timestamp": "2026-01-30T19:47:21.932922",
+  "metadata": {"price": 152.3, "volume": 1000000}
+}

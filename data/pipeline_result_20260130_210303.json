@@ -1,0 +1,31 @@
+{
+  "timestamp": "2026-01-30T21:03:03.526080",
+  "world_data": [
+    {
+      "sku": "MSFT",
+      "quantity": 0,
+      "confidence": 0.95,
+      "source": "primary_api",
+      "timestamp": "2026-01-30 21:03:03.513903",
+      "metadata": {
+        "price": 429.0580139160156,
+        "fetched_at": "2026-01-30T21:03:03.513907",
+        "source_detail": "yfinance"
+      },
+      "quality": "valid",
+      "validation_issues": []
+    }
+  ],
+  "active_hypotheses": [
+    {
+      "sku": "MSFT",
+      "action": "buy",
+      "reasoning": "Stock level (0) is below safety threshold (10). Risk of stockout.",
+      "confidence": 1.0
+    }
+  ],
+  "health_metrics": {
+    "processed_count": 1,
+    "last_action": "execution_complete"
+  }
+}

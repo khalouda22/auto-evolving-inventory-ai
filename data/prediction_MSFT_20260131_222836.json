@@ -1,0 +1,10 @@
+{
+  "prediction_id": "MSFT_20260131_222836",
+  "sku": "MSFT",
+  "predicted_demand": 0.9959025320200643,
+  "action": "buy",
+  "confidence": 0.85,
+  "timestamp": "2026-01-31T22:28:36.542035",
+  "actual_demand": null,
+  "feedback_received": false
+}

@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-02-01T00:14:23.926157",
+  "world_data": [
+    {
+      "sku": "MSFT",
+      "quantity": 0,
+      "confidence": 0.95,
+      "source": "primary_api",
+      "timestamp": "2026-02-01 00:14:22.525581",
+      "metadata": {
+        "price": 430.2900085449219,
+        "fetched_at": "2026-02-01T00:14:22.525585",
+        "source_detail": "yfinance",
+        "supplier": {
+          "supplier_id": "SUPP-01",
+          "name": "Redmond Logistics",
+          "lead_time_days": 5,
+          "reliability_score": 0.98,
+          "min_order_quantity": 50,
+          "unit_cost": 380
+        },
+        "incoming_quantity": 10
+      },
+      "quality": "valid",
+      "validation_issues": []
+    }
+  ],
+  "active_hypotheses": [
+    {
+      "sku": "MSFT",
+      "action": "buy",
+      "reasoning": "Stock level (0) is below dynamic safety threshold (12). Lead time is 5 days with 98% reliability. Reorder at least 50 units.",
+      "confidence": 1.0
+    }
+  ],
+  "health_metrics": {
+    "processed_count": 1,
+    "last_action": "execution_complete"
+  }
+}

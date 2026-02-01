@@ -1,0 +1,14 @@
+{
+  "sku": "MSFT",
+  "quantity": 0,
+  "confidence": 0.95,
+  "source": "primary_api",
+  "timestamp": "2026-02-01 00:44:35.588727",
+  "metadata": {
+    "price": 430.2900085449219,
+    "fetched_at": "2026-02-01T00:44:35.588730",
+    "source_detail": "yfinance"
+  },
+  "quality": "unknown",
+  "validation_issues": []
+}
